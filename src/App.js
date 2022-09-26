@@ -1,11 +1,11 @@
 import './App.css';
-import profileImage from './img/img-9-1.jpg'
+import profileImage from './img/joel.jpg'
 
 function App() {
   return (
     <div className="App">
-      <h1> Hello World </h1>
-      <h2>Made by MIke</h2>
+      <h1> Joel Loves cock </h1>
+      <h2> "Dont call me I'm BUSY"</h2>
       < img src={profileImage} alt='profile-pic' />
     </div>
   );
