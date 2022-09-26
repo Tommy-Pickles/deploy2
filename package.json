@@ -1,6 +1,6 @@
 {
   "name": "react-deploy-2",
-  "homepage": "https://tommy-pickles.github.io/deploy2/"
+  "homepage": "https://tommy-pickles.github.io/deploy2/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
